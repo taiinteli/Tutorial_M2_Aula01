@@ -15,7 +15,7 @@ Essa etapa tem por objetivo testar a instalação do Node.js, Sqlite3, verificar
 
    `npm install sqlite3`
    
-   `npm install express –save`
+   `npm install express --save`
 
 7. GitHub:
   
@@ -25,14 +25,16 @@ Essa etapa tem por objetivo testar a instalação do Node.js, Sqlite3, verificar
 
    > \* Criar conta pessoal (com e-mail Inteli) ou entrar na sua conta se já a tiver
 
-   > 2. Fork do repositório [https://github.com/Intelihub/Template_Aluno](https://github.com/Intelihub/Template_Aluno), dando o nome `modulo2`.
+   > 2. Fork do repositório Template: [https://github.com/Intelihub/Template_Aluno](https://github.com/Intelihub/Template_Aluno), dando o nome `modulo2`.
+   
+   > \* Indicamos usar a versão web do Github para fazer a cópia desse diretório do Template que cada aluno deve ter no seu repositório individual (1.acesse o repositório do link supracitado; 2. clique no botão `Fork` ou `Garfo`, se seu Github estiver em português, localizado no canto superior direito da página, logo abaixo da barra de menu do Github; e 3. dê o nome de `modulo 2` para o novo repositório).
 
    > 3. Clone esse repositório `modulo2` na sua máquina.
 
 
 ### Instruções
 
-1. Copie os arquivos abaixo **deste** diretório para pasta `SEMANA_01/02_TUTORIAL` do **seu** GitHub:
+1. Copie os arquivos abaixo **deste** diretório para pasta `02_TUTORIAL/Semana 1` do **seu** GitHub:
    
 	- `app_11.js`
 	- `app_12.js`
@@ -51,7 +53,7 @@ Essa etapa tem por objetivo testar a instalação do Node.js, Sqlite3, verificar
 	
 3. Semelhante ao feito em `2`, execute:
 
-	\* Para executar os comandos a seguir na mesma janela do terminal, você pode encerrar o processo iniciado pelo comando node do passo `2` utilizando o atalho `CTRL + C` pode ser utilizado! PS: note que, dessa forma, o resultado do passo 2 não estará mais disponível (link [http://127.0.0.1:3011/](http://127.0.0.1:3011/) não funcionará mais), pois o servidor que estava rodando na porta 3011 foi encerrado.
+	\* Para executar os comandos a seguir na mesma janela do terminal, você pode encerrar o processo iniciado pelo comando do passo `2` utilizando o atalho `CTRL + C`! Note que, dessa forma, o resultado do passo 2 não estará mais disponível (link [http://127.0.0.1:3011/](http://127.0.0.1:3011/) não funcionará mais), pois o servidor que estava rodando na porta 3011 terá sido encerrado.
 
 
 	`npm install sqlite3`
